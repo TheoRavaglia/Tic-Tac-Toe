@@ -1,7 +1,5 @@
 # Tic Tac Toe with Minimax Evaluation
 
-![Game Preview](screenshot.png) <!-- Add screenshot if available -->
-
 ## Overview
 A strategic implementation of Tic Tac Toe featuring real-time Minimax algorithm evaluation. This wxPython-based game offers:
 - Two-player (Human vs Human) gameplay
